@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naziFaizzy&theme=github_dark)
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naziFaizzy&theme=github_dark)
+[![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=USERNAME&theme=github_dark)](https://github.com/USERNAME)
+
 
