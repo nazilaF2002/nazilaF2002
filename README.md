@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2Cthere!+%F0%9F%91%8B;This+is+Nazila+Faizzadah+;Full-Stack+Web+developer+;Nice+to+meet+you+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=717&width=435&lines=Hello+%2C+there!+%F0%9F%91%8B;This+is+Nazila+Faizzadah+...;Nice+to+meet+you+!)](https://git.io/typing-svg)
 
 ---
 ## 👩‍💻 About Me
@@ -8,7 +8,7 @@
 🌱 I'm currently learning **full-stack web development** with a focus on modern JavaScript technologies.  
 🤝 I'm open to collaborating on any exciting project where I can learn and contribute.
 
----
+
 
 ## 🛠️ Languages and Tools
 
@@ -44,7 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazilaF2002&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+
 
 ## 📫 Contact Me
 
