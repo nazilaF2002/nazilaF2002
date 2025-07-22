@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=717&center=true&vCenter=true&width=435&lines=Hello+%2C+there!+%F0%9F%91%8B;This+is+Nazila+Faizzadah+;Full-Stack+Web+developer;Nice+to+meet+you+!)](https://git.io/typing-svg)
-
+<br/>
 ##
-<br/><br/>
+<br/>
 
 
 👋 Hi, I'm **Nazila Faizzadah** from Herat, Afghanistan.  
@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <br/><br/>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
