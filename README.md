@@ -27,6 +27,20 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazilafaizzadah&show_icons=true&theme=tokyonight" alt="Nazila's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nazilafaizzadah&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Nazila's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazilafaizzadah&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ## 🌱 Currently Learning
 
