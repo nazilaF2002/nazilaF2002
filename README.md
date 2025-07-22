@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=717&width=435&lines=Hello+%2C+there!+%F0%9F%91%8B;This+is+Nazila+Faizzadah+...;Nice+to+meet+you+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=717&center=true&width=435&lines=Hello+%2C+there!+%F0%9F%91%8B;This+is+Nazila+Faizzadah+...;Nice+to+meet+you+!)](https://git.io/typing-svg)
 
----
+
+
 ## 👩‍💻 About Me
 
 👋 Hi, I'm **Nazila Faizzadah** from Herat, Afghanistan.  
