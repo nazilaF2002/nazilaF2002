@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+    👋 Hi, I’m Mahmood Hashemi from Herat, Afghanistan
+    👀 I’m interested in Mobile and Web development
+    🌱 I’m currently learning Web development
+    💞️ I’m looking to collaborate on with who wants help in thier projects
+
 <!--
 **nazilaF2002/nazilaF2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
