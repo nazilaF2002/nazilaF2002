@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2Cthere!+%F0%9F%91%8B;This+is+Nazila+Faizzadah+;Full-Stack+Web+developer+;Nice+to+meet+you+!)](https://git.io/typing-svg)
+
+---
 ## 👩‍💻 About Me
 
 👋 Hi, I'm **Nazila Faizzadah** from Herat, Afghanistan.  
@@ -41,23 +44,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazilaF2002&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-
-## 🌱 Currently Learning
-
-- Docker  
-- Clean Architecture  
-- Advanced MongoDB Aggregation  
-- More about React ecosystem (Redux, Hooks, etc.)
-
 ---
 
 ## 📫 Contact Me
 
 - Email: [nazilafaizzadah37@gmail.com](mailto:nazilafaizzadah37@gmail.com)
 
----
 
----
 
 
 <!--
