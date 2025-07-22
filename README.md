@@ -30,15 +30,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazilafaizzadah&show_icons=true&theme=tokyonight" alt="Nazila's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nazilaF2002&show_icons=true&theme=tokyonight" alt="Nazila's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nazilafaizzadah&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Nazila's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nazilaF2002&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Nazila's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazilafaizzadah&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazilaF2002&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
