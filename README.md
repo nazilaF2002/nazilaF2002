@@ -31,15 +31,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <br/><br/>
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazilaF2002&show_icons=true&theme=tokyonight" alt="Nazila's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nazilaF2002&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Nazila's GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazilaF2002&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -57,7 +56,9 @@
 
 
 <!--
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nazilaF2002&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Nazila's GitHub Streak" />
+</p>
 **nazilaF2002/nazilaF2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
