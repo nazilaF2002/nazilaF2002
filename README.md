@@ -2,7 +2,7 @@
 ##
 
 
-## 👩‍💻 About Me
+
 
 👋 Hi, I'm **Nazila Faizzadah** from Herat, Afghanistan.  
 💻 I'm passionate about **web development** and creating useful digital experiences.  
