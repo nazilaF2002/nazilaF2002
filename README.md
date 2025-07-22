@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=717&center=true&vCenter=true&width=435&lines=Hello+%2C+there!+%F0%9F%91%8B;This+is+Nazila+Faizzadah+...;Nice+to+meet+you+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=717&center=true&vCenter=true&width=435&lines=Hello+%2C+there!+%F0%9F%91%8B;This+is+Nazila+Faizzadah+;Full-Stack+Web+developer;Nice+to+meet+you+!)](https://git.io/typing-svg)
+
 ##
-
-
+<br/><br/>
 
 
 👋 Hi, I'm **Nazila Faizzadah** from Herat, Afghanistan.  
@@ -9,7 +9,7 @@
 🌱 I'm currently learning **full-stack web development** with a focus on modern JavaScript technologies.  
 🤝 I'm open to collaborating on any exciting project where I can learn and contribute.
 
-
+<br/><br/>
 
 ## 🛠️ Languages and Tools
 
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
+<br/><br/>
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazilaF2002&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-
+<br/><br/>
 
 ## 📫 Contact Me
 
